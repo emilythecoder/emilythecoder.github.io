@@ -1,6 +1,8 @@
 body{
     background-color:rgb(183, 211, 242);
 }
+li{
+    display: inline;
 h1{
     color:rgb(153, 57, 85);
     font-family:;
